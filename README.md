@@ -151,5 +151,5 @@ bash
 mvn spring-boot:run
 The application will start on http://localhost:8080.
 ```
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
